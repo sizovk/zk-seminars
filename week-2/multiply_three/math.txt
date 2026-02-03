@@ -1,0 +1,9 @@
+[INFO]  snarkJS: [ -main.a ] * [ main.b ] - [ -main.t ] = 0
+[INFO]  snarkJS: [ -main.t ] * [ main.c ] - [ -main.d ] = 0
+
+
+(-a) * b - (-t) = 0
+(-t) * c - (-d) = 0
+
+t = ab
+d = tc
