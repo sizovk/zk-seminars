@@ -9,3 +9,4 @@
 - [Week 5:](https://github.com/sizovk/zk-seminars/tree/main/week-5) Railgun
 - [Week 6:](https://github.com/sizovk/zk-seminars/tree/main/week-6) Halo2
 - [Week 7:](https://github.com/sizovk/zk-seminars/tree/main/week-7) ZCash
+- [Week 8:](https://github.com/sizovk/zk-seminars/tree/main/week-8) ZCash pt2
